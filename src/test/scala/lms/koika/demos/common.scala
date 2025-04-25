@@ -20,6 +20,7 @@ object KoikaInterp {
     , saved_regs: Array[Int]
     , cache_keys: Array[Int]
     , cache_vals: Array[Int]
+    , icache_keys: Array[Int]
     , timer: Int
     )
 
